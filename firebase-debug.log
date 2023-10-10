@@ -1,0 +1,25 @@
+[debug] [2023-10-09T10:17:54.739Z] ----------------------------------------------------------------------
+[debug] [2023-10-09T10:17:54.744Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\rojal\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-10-09T10:17:54.745Z] CLI Version:   12.6.2
+[debug] [2023-10-09T10:17:54.745Z] Platform:      win32
+[debug] [2023-10-09T10:17:54.746Z] Node Version:  v18.17.1
+[debug] [2023-10-09T10:17:54.748Z] Time:          Mon Oct 09 2023 15:47:54 GMT+0530 (India Standard Time)
+[debug] [2023-10-09T10:17:54.748Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-10-09T10:17:54.766Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-10-09T10:17:54.767Z] > authorizing via signed-in user (rojaltreesa00@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\IMPORTANT APPS\HTML Programs\Project Trial\video
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
